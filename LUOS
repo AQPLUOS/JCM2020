@@ -1,0 +1,11 @@
+1
+2
+3
+47<form
+action="https://script.google.com/macros/s/AKfycbw25mpdsgbyBknlHluczntGCmX4s2gtr03eeSfzEFjj05BOfMKm/exec" method="get" target="_blank">
+<label>DNI</label><br />
+<input name="DNI" required="" type="text" /><br /><br />
+<label>Correo electr&oacute;nico</label><br />
+<input name="EMAIL" required="" type="email" /><br><br>
+<button>Buscar</button>
+</form>
